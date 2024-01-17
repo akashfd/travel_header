@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.searchbar{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 90%;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 7%;
+}
+.navbar ul li:nth-child(2){
+    padding-left: 5%;
+}
+.navbar ul li:nth-child(3){
+    padding-left: 5%;
+}
+.navbar ul li:nth-child(4){
+    padding-left: 5%;
+}
+.navbar ul li:nth-child(5){
+    padding-left: 5%;
+}
